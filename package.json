@@ -1,0 +1,13 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "cypress": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress open"
+  }
+}
